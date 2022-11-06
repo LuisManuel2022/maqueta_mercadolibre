@@ -1,2 +1,1 @@
-# maqueta_mercadolibre
-maquetación de mercado libre
+Proyecto creado con create-react-app. estilo desktop por el momento
